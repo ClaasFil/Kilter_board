@@ -1,7 +1,7 @@
 ---
 id: task-005
 title: Polish CNN notebook
-status: In Progress
+status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:43'
