@@ -1,7 +1,7 @@
 ---
 id: task-004
 title: Polish Custom_Dataset notebook
-status: In Progress
+status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:28'
