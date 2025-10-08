@@ -1,11 +1,11 @@
 ---
 id: task-002
 title: Human verification of README
-status: To Do
+status: In Progress
 assignee:
   - '@claasFil'
 created_date: '2025-10-08 10:06'
-updated_date: '2025-10-08 11:10'
+updated_date: '2025-10-08 11:11'
 labels: []
 dependencies:
   - task-001
@@ -23,6 +23,14 @@ Review the drafted README to ensure accuracy, clarity, and completeness from a m
 - [ ] #2 Suggest corrections for unclear sections or missing context.
 - [x] #3 Approve or reject the README changes with actionable feedback.
 <!-- AC:END -->
+
+## Implementation Plan
+
+<!-- SECTION:PLAN:BEGIN -->
+1. Review updated README Training and notebook sections.
+2. Validate MrLesk credit in Task Management.
+3. Summarize findings and approve or request changes.
+<!-- SECTION:PLAN:END -->
 
 ## Implementation Notes
 
