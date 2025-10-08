@@ -1,11 +1,11 @@
 ---
 id: task-004
 title: Polish Custom_Dataset notebook
-status: Done
+status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:28'
-updated_date: '2025-10-08 11:35'
+updated_date: '2025-10-08 11:36'
 labels: []
 dependencies: []
 ---
