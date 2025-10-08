@@ -5,7 +5,7 @@ status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:28'
-updated_date: '2025-10-08 11:32'
+updated_date: '2025-10-08 11:35'
 labels: []
 dependencies: []
 ---
@@ -18,11 +18,11 @@ Improve the readability of src/notebooks/Custom_Dataset.ipynb without altering i
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [x] #1 Add inline comments where the code is non-obvious.
-- [x] #2 Insert markdown explanations ahead of key sections.
-- [x] #3 Clarify or rephrase print/log statements for better comprehension.
-- [x] #4 Remove redundant or dead code cells.
-- [x] #5 Execute the notebook end-to-end after edits to confirm it still runs.
+- [ ] #1 Add inline comments where the code is non-obvious.
+- [ ] #2 Insert markdown explanations ahead of key sections.
+- [ ] #3 Clarify or rephrase print/log statements for better comprehension.
+- [ ] #4 Remove redundant or dead code cells.
+- [ ] #5 Execute the notebook end-to-end after edits to confirm it still runs.
 <!-- AC:END -->
 
 ## Implementation Plan
