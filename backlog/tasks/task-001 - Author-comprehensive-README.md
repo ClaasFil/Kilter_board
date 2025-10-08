@@ -31,3 +31,9 @@ Write a modern README.md for the Kilter project that introduces the project, out
 3. Highlight environment activation, training command, notebook execution, and backlog CLI usage.
 4. Revise for clarity and ensure it reflects current project structure.
 <!-- SECTION:PLAN:END -->
+
+## Implementation Notes
+
+<!-- SECTION:NOTES:BEGIN -->
+Created root README.md covering project overview, dataset assets, setup, training CLI usage, notebook execution, and Backlog.md workflow guidance. Documented environment activation steps and highlighted key model registry options.
+<!-- SECTION:NOTES:END -->
