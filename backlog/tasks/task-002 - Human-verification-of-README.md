@@ -1,7 +1,7 @@
 ---
 id: task-002
 title: Human verification of README
-status: In Progress
+status: Done
 assignee:
   - '@claasFil'
 created_date: '2025-10-08 10:06'
