@@ -5,7 +5,7 @@ status: To Do
 assignee:
   - '@claasFil'
 created_date: '2025-10-08 10:06'
-updated_date: '2025-10-08 11:06'
+updated_date: '2025-10-08 11:10'
 labels: []
 dependencies:
   - task-001
@@ -23,3 +23,12 @@ Review the drafted README to ensure accuracy, clarity, and completeness from a m
 - [ ] #2 Suggest corrections for unclear sections or missing context.
 - [x] #3 Approve or reject the README changes with actionable feedback.
 <!-- AC:END -->
+
+## Implementation Notes
+
+<!-- SECTION:NOTES:BEGIN -->
+- Verification focus:
+  - Confirm README Training section documents key parameters with actionable guidance.
+  - Check Task Management section credits MrLesk for Backlog.md.
+  - Ensure notebook overview lists CNN, custom_dataset, shallow_MLP_tryout, and static_data notebooks with summaries.
+<!-- SECTION:NOTES:END -->
