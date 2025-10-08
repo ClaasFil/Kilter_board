@@ -35,8 +35,9 @@ Review the drafted README to ensure accuracy, clarity, and completeness from a m
 ## Implementation Notes
 
 <!-- SECTION:NOTES:BEGIN -->
-- Verification focus:
-  - Confirm README Training section documents key parameters with actionable guidance.
-  - Check Task Management section credits MrLesk for Backlog.md.
-  - Ensure notebook overview lists CNN, custom_dataset, shallow_MLP_tryout, and static_data notebooks with summaries.
+Reviewed README revisions:
+- Training section now details model-type, hidden-unit, optimizer, and dataset parameters.
+- Task Management section thanks MrLesk for Backlog.md workflow.
+- Notebook overview covers CNN, custom_dataset, shallow_MLP_tryout, and static_data insights.
+All acceptance criteria satisfied.
 <!-- SECTION:NOTES:END -->
