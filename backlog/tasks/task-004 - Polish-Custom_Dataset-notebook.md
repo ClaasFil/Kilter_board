@@ -23,6 +23,8 @@ Improve the readability of src/notebooks/Custom_Dataset.ipynb without altering i
 - [ ] #3 Clarify or rephrase print/log statements for better comprehension.
 - [ ] #4 Remove redundant or dead code cells.
 - [ ] #5 Execute the notebook end-to-end after edits to confirm it still runs.
+
+- [ ] #6 Document the purpose of each argument when constructing ClimbingDataset.
 <!-- AC:END -->
 
 ## Implementation Plan
