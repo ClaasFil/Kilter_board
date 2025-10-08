@@ -5,7 +5,7 @@ status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:28'
-updated_date: '2025-10-08 11:36'
+updated_date: '2025-10-08 11:38'
 labels: []
 dependencies: []
 ---
@@ -41,4 +41,9 @@ Improve the readability of src/notebooks/Custom_Dataset.ipynb without altering i
 - Added markdown section headers to explain dataset setup, sampling, splitting, metrics, and visualisations.
 - Clarified inline comments/prints in code cells and removed empty trailing cells.
 - Executed notebook via nbconvert to confirm outputs regenerate successfully.
+
+---
+Second pass adjustments:
+- Documented each `ClimbingDataset` parameter via inline comments and a dedicated markdown section.
+- Re-ran nbconvert after readability tweaks to confirm outputs remain valid.
 <!-- SECTION:NOTES:END -->
