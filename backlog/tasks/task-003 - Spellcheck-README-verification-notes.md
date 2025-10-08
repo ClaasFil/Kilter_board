@@ -1,7 +1,7 @@
 ---
 id: task-003
 title: Spellcheck README verification notes
-status: In Progress
+status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-08 10:06'
