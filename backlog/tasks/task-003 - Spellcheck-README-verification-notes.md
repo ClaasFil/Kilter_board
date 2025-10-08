@@ -19,9 +19,9 @@ Perform a spelling and grammar pass on the human verification feedback and the f
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 Check README text for spelling and grammar issues, addressing reviewer comments.
-- [ ] #2 Ensure human verification notes are incorporated without typos.
-- [ ] #3 Confirm README is ready for publishing after corrections.
+- [x] #1 Check README text for spelling and grammar issues, addressing reviewer comments.
+- [x] #2 Ensure human verification notes are incorporated without typos.
+- [x] #3 Confirm README is ready for publishing after corrections.
 <!-- AC:END -->
 
 ## Implementation Plan
