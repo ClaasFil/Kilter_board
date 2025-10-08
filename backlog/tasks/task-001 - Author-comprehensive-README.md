@@ -1,7 +1,7 @@
 ---
 id: task-001
 title: Author comprehensive README
-status: In Progress
+status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-08 10:06'
