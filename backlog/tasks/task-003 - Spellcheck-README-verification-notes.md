@@ -1,11 +1,11 @@
 ---
 id: task-003
 title: Spellcheck README verification notes
-status: To Do
+status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-08 10:06'
-updated_date: '2025-10-08 11:11'
+updated_date: '2025-10-08 11:12'
 labels: []
 dependencies:
   - task-002
@@ -23,6 +23,14 @@ Perform a spelling and grammar pass on the human verification feedback and the f
 - [ ] #2 Ensure human verification notes are incorporated without typos.
 - [ ] #3 Confirm README is ready for publishing after corrections.
 <!-- AC:END -->
+
+## Implementation Plan
+
+<!-- SECTION:PLAN:BEGIN -->
+1. Spellcheck README.md and reviewer notes for common typos.
+2. Manually scan for grammar/wording issues not caught automatically.
+3. Summarize fixes and confirm readiness.
+<!-- SECTION:PLAN:END -->
 
 ## Implementation Notes
 
