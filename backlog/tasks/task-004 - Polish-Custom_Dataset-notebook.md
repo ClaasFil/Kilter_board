@@ -5,7 +5,7 @@ status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-08 11:28'
-updated_date: '2025-10-08 11:28'
+updated_date: '2025-10-08 11:32'
 labels: []
 dependencies: []
 ---
@@ -32,3 +32,11 @@ Improve the readability of src/notebooks/Custom_Dataset.ipynb without altering i
 2. Add markdown commentary, inline notes, and refine print statements while pruning redundant code.
 3. Reexecute notebook to validate outputs remain consistent.
 <!-- SECTION:PLAN:END -->
+
+## Implementation Notes
+
+<!-- SECTION:NOTES:BEGIN -->
+- Added markdown section headers to explain dataset setup, sampling, splitting, metrics, and visualisations.
+- Clarified inline comments/prints in code cells and removed empty trailing cells.
+- Executed notebook via nbconvert to confirm outputs regenerate successfully.
+<!-- SECTION:NOTES:END -->
