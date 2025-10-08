@@ -19,8 +19,8 @@ Review the drafted README to ensure accuracy, clarity, and completeness from a m
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 Confirm README content matches project goals, setup, and workflows.
-- [ ] #2 Suggest corrections for unclear sections or missing context.
+- [x] #1 Confirm README content matches project goals, setup, and workflows.
+- [x] #2 Suggest corrections for unclear sections or missing context.
 - [x] #3 Approve or reject the README changes with actionable feedback.
 <!-- AC:END -->
 
