@@ -5,7 +5,7 @@ status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-09 11:55'
-updated_date: '2025-10-09 11:58'
+updated_date: '2025-10-09 12:00'
 labels: []
 dependencies: []
 ---
@@ -20,8 +20,8 @@ an CNN with large kernal and samall clasitfyer
 <!-- AC:BEGIN -->
 - [ ] #1 one test run via terminal
 
-- [ ] #2 CNN architecture uses larger kernel sizes in early layers
-- [ ] #3 Classifier head uses reduced-parameter layers compared to baseline
+- [x] #2 CNN architecture uses larger kernel sizes in early layers
+- [x] #3 Classifier head uses reduced-parameter layers compared to baseline
 <!-- AC:END -->
 
 ## Implementation Plan
