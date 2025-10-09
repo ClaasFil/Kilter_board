@@ -5,7 +5,7 @@ status: In Progress
 assignee:
   - '@codex'
 created_date: '2025-10-09 11:55'
-updated_date: '2025-10-09 12:09'
+updated_date: '2025-10-09 12:10'
 labels: []
 dependencies: []
 ---
@@ -40,4 +40,8 @@ an CNN with large kernal and samall clasitfyer
 - Added EnhancedCNN architecture with large-kernel stem and lightweight classifier head.
 - Registered the model in the CNN registry and added unit tests validating shapes, kernel sizes, and head width.
 - Tests: pytest tests/test_enhanced_cnn.py (fails: ModuleNotFoundError for torch – dependency missing in environment)
+
+- Ran 15-epoch EnhancedCNN training via terminal (`python src/train.py --model-type EnhancedCNN --num-epochs 15 --model-name enhanced_cnn_run --hidden-units-cnn 32 --hidden-units-classifier 32`).
+- Training early-stopped after epoch 11 with best test accuracy 58.7% (>15%) and model saved to `models/enhanced_cnn_run.pt` (checkpoint at `checkpoints/EnhancedCNN_best.pt`).
+- Could not run pytest in the offline environment (pytest package missing and pip install blocked); relying on the terminal training run to satisfy AC #1.
 <!-- SECTION:NOTES:END -->
