@@ -1,10 +1,11 @@
 ---
 id: task-006
 title: tem_CNN
-status: To Do
-assignee: []
+status: In Progress
+assignee:
+  - '@codex'
 created_date: '2025-10-09 11:55'
-updated_date: '2025-10-09 11:56'
+updated_date: '2025-10-09 11:58'
 labels: []
 dependencies: []
 ---
