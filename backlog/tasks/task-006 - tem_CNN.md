@@ -1,7 +1,7 @@
 ---
 id: task-006
 title: tem_CNN
-status: In Progress
+status: Done
 assignee:
   - '@codex'
 created_date: '2025-10-09 11:55'
